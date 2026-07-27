@@ -1,0 +1,7 @@
+# Este proyecto no requiere librerias externas: toda la logica matematica
+# (Euclides extendido, Dijkstra, coloreo voraz, Quine-McCluskey, entropia,
+# algebra lineal de 2x2 para el simulador cuantico) esta implementada con
+# la biblioteca estandar de Python (>= 3.10): math, cmath, random, heapq,
+# itertools, collections, dataclasses, unittest.
+#
+# No hay dependencias que instalar.
