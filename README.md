@@ -46,6 +46,9 @@ taller3/
 Clonar el repositorio
 
 git clone https://github.com/oscarmedina0116/taller3-discretas.git
+
+luego 
+
 cd taller3-discretas
 
 No hay que instalar nada. Desde la raíz del repositorio:
