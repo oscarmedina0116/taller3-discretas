@@ -5,9 +5,9 @@ Docente: Jhoan Sebastian Tenjo García
 
 ## Integrantes
 
-- **Nombre:** _(completar)_ — correo: `oandradem@unal.edu.co`
-
-> Si el taller se realiza en pareja, agregar aquí el nombre y correo de la segunda persona.
+- **Nombre:** Oscar Andres Andrade Medina — correo: `oandradem@unal.edu.co`
+- 
+Para este taller use como apoyo Claude Code de Anthropic en VSC y asimismo su conector a github para la corrección de errores, diseños de estructura, código, definición de tareas, auditoria y profesionalización de la entrega.
 
 ## Lenguaje usado
 
