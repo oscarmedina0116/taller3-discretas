@@ -1,0 +1,5 @@
+# Dependencias SOLO para regenerar docs/explicacion.pdf a partir de
+# docs/explicacion.md (docs/generar_pdf.py). No son necesarias para
+# ejecutar ni probar ninguno de los 10 ejercicios del taller.
+markdown
+fpdf2
