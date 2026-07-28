@@ -43,15 +43,20 @@ taller3/
 ```
 
 ## Cómo ejecutar
+
+Desde la terminal
+
 Clonar el repositorio
 
 git clone https://github.com/oscarmedina0116/taller3-discretas.git
 
-luego 
+luego acceder 
 
 cd taller3-discretas
 
 No hay que instalar nada. Desde la raíz del repositorio:
+
+luego copiar y pegar los comandos de los ejercicios que se quieran revisar
 
 **Ejecutar la demo de un ejercicio** (cada módulo tiene un bloque `if __name__ == "__main__":`
 con un caso de ejemplo impreso en consola):
